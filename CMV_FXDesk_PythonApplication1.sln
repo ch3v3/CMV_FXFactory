@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CMV_FXDesk_PythonApplication1", "CMV_FXDesk_PythonApplication1.pyproj", "{7C87E125-D737-4C1B-B0B8-34F0AAD1AFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C87E125-D737-4C1B-B0B8-34F0AAD1AFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C87E125-D737-4C1B-B0B8-34F0AAD1AFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A570F6-9677-40F2-9064-71603BFB6D4F}
+	EndGlobalSection
+EndGlobal
